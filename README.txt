@@ -6,4 +6,4 @@ This work is described in:
 X. Gu, P. Angelov and J. Principe, “A Method for Autonomous Data Partitioning,” Information Sciences, vol. 460–461, pp. 65-82, 2018.
 ====================================================================================================================================
 Please cite the paper above if this code helps. 
-Programmed by Xiaowei Gu. For any queries about the code, please contact Dr. Xiaowei Gu: x.gu3@lancaster.ac.uk
+Programmed by Xiaowei Gu. For any queries about the code, please contact Dr. Xiaowei Gu: xig4@aber.ac.uk
